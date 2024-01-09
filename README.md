@@ -8,11 +8,11 @@ Covered fundamental topics including Data Processing, Machine Learning, Data Ana
 - Big Data Processing: 🚀 Tackled challenges associated with large datasets, through harnessing the power of big data technologies and using techniques for efficient manipulation, transforming, and extracting of valuable information.
 
 ### Course Highlights:
-📊 Data Processing: Mastered the art of handling and processing data efficiently using cutting-edge tools and techniques.
-🤖 Machine Learning: Explored the intricacies of machine learning algorithms, delving into the world of predictive analytics.
-📈 Data Analytics: Acquired the skills to extract meaningful insights from data through statistical analysis and visualization.
-💡 Big Data Manipulation: Navigated the challenges and opportunities presented by massive datasets, gaining proficiency in processing and manipulating big data.
+- 📊 Data Processing: Mastered the art of handling and processing data efficiently using cutting-edge tools and techniques.
+- 🤖 Machine Learning: Explored the intricacies of machine learning algorithms, delving into the world of predictive analytics.
+- 📈 Data Analytics: Acquired the skills to extract meaningful insights from data through statistical analysis and visualization.
+- 💡 Big Data Manipulation: Navigated the challenges and opportunities presented by massive datasets, gaining proficiency in processing and manipulating big data.
 
 ### Theoretical and Practical Learning:
-📚 Theoretical Aspects: Understood the underlying principles and concepts through engaging lectures and discussions.
-🛠️ Practical Application: Applied knowledge in real-world scenarios through hands-on projects, ensuring a seamless transition from theory to practice.
+- 📚 Theoretical Aspects: Understood the underlying principles and concepts through engaging lectures and discussions.
+- 🛠️ Practical Application: Applied knowledge in real-world scenarios through hands-on projects, ensuring a seamless transition from theory to practice.
